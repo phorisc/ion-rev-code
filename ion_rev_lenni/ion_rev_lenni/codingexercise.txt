@@ -1,0 +1,9 @@
+"""
+In the django admin dashboard, from this widget it splits the DurationField in to separate IntegerField's.
+Make it so that each IntegerField (input box) has some sort of display text on what part of the DurationField they are
+affecting. You will want the user to clearly understand each field and be able to test and validate your code.
+"""
+
+"""
+Also create a simple api endpoint to use CRUD functionality for the model above.
+"""
